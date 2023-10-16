@@ -1,0 +1,6 @@
+2023-10-16 14:28:37.929 UTC [1] LOG:  starting PostgreSQL 16.0 on x86_64-pc-linux-musl, compiled by gcc (Alpine 12.2.1_git20220924-r10) 12.2.1 20220924, 64-bit
+2023-10-16 14:28:37.930 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+2023-10-16 14:28:37.930 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+2023-10-16 14:28:37.986 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2023-10-16 14:28:38.136 UTC [26] LOG:  database system was interrupted; last known up at 2023-10-16 14:27:17 UTC
+2023-10-16 14:28:48.246 UTC [27] FATAL:  the database system is starting up
